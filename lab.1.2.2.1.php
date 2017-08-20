@@ -10,6 +10,6 @@ var_dump($f);
 
 $g = "Hello!";
 $g = null ;
-var_dump($g);
+var_dump($g); // NULL
 
 ?>
