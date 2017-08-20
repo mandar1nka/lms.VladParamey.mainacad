@@ -8,4 +8,8 @@ $e = "Hi!" ; // string
 $f = array("true","false","zero"); // array
 var_dump($f);
 
+$g = "Hello!";
+$g = null ;
+var_dump($g);
+
 ?>
